@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84E73E59-61F9-49AA-B13A-9BF679BF6C87}|SimulationMVC1\\SimulationMVC1.csproj|c:\\users\\ii novbe\\documents\\my web sites\\simulationmvc1\\simulationmvc1\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84E73E59-61F9-49AA-B13A-9BF679BF6C87}|SimulationMVC1\\SimulationMVC1.csproj|solutionrelative:simulationmvc1\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84E73E59-61F9-49AA-B13A-9BF679BF6C87}|SimulationMVC1\\SimulationMVC1.csproj|c:\\users\\ii novbe\\documents\\my web sites\\simulationmvc1\\simulationmvc1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{84E73E59-61F9-49AA-B13A-9BF679BF6C87}|SimulationMVC1\\SimulationMVC1.csproj|solutionrelative:simulationmvc1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -66,11 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\Views\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SimulationMVC1\\Views\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\Views\\_Layout.cshtml",
+              "RelativeToolTip": "SimulationMVC1\\Views\\_Layout.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAgwJUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T14:50:44.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20250113141437_CreateEmployeesAndDepartmentsTable.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\Migrations\\20250113141437_CreateEmployeesAndDepartmentsTable.cs",
               "RelativeDocumentMoniker": "SimulationMVC1\\Migrations\\20250113141437_CreateEmployeesAndDepartmentsTable.cs",
@@ -82,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DepartmentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\Configurations\\DepartmentConfiguration.cs",
               "RelativeDocumentMoniker": "SimulationMVC1\\Configurations\\DepartmentConfiguration.cs",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20250113135020_CreateEmployeesAndDepartmentsTable.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\Migrations\\20250113135020_CreateEmployeesAndDepartmentsTable.cs",
               "RelativeDocumentMoniker": "SimulationMVC1\\Migrations\\20250113135020_CreateEmployeesAndDepartmentsTable.cs",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\Program.cs",
               "RelativeDocumentMoniker": "SimulationMVC1\\Program.cs",
@@ -118,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GetDepartmentVM.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\ViewModels\\GetDepartmentVM.cs",
               "RelativeDocumentMoniker": "SimulationMVC1\\ViewModels\\GetDepartmentVM.cs",
@@ -130,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GetEmployeeVM.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\ViewModels\\GetEmployeeVM.cs",
               "RelativeDocumentMoniker": "SimulationMVC1\\ViewModels\\GetEmployeeVM.cs",
@@ -142,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SimulationMVC1\\DAL\\AppDbContext.cs",
@@ -154,13 +171,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\appsettings.json",
               "RelativeDocumentMoniker": "SimulationMVC1\\appsettings.json",
               "ToolTip": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\appsettings.json",
               "RelativeToolTip": "SimulationMVC1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-13T11:51:38.203Z",
               "EditorCaption": ""
@@ -171,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmployeeConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\Configurations\\EmployeeConfiguration.cs",
               "RelativeDocumentMoniker": "SimulationMVC1\\Configurations\\EmployeeConfiguration.cs",
@@ -183,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "SimulationMVC1\\Models\\Base\\BaseEntity.cs",
@@ -195,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\Models\\Department.cs",
               "RelativeDocumentMoniker": "SimulationMVC1\\Models\\Department.cs",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "SimulationMVC1\\Models\\Employee.cs",
@@ -219,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SimulationMVC1\\Controllers\\HomeController.cs",
@@ -231,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Documents\\My Web Sites\\SimulationMVC1\\SimulationMVC1\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "SimulationMVC1\\ScaffoldingReadMe.txt",

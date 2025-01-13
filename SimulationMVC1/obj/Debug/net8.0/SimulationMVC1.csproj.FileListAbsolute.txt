@@ -262,3 +262,6 @@ C:\Users\II Novbe\Documents\My Web Sites\SimulationMVC1\SimulationMVC1\obj\Debug
 C:\Users\II Novbe\Documents\My Web Sites\SimulationMVC1\SimulationMVC1\obj\Debug\net8.0\SimulationMVC1.pdb
 C:\Users\II Novbe\Documents\My Web Sites\SimulationMVC1\SimulationMVC1\obj\Debug\net8.0\SimulationMVC1.genruntimeconfig.cache
 C:\Users\II Novbe\Documents\My Web Sites\SimulationMVC1\SimulationMVC1\obj\Debug\net8.0\ref\SimulationMVC1.dll
+C:\Users\II Novbe\Documents\My Web Sites\SimulationMVC1\SimulationMVC1\obj\Debug\net8.0\SimulationMVC1.RazorAssemblyInfo.cache
+C:\Users\II Novbe\Documents\My Web Sites\SimulationMVC1\SimulationMVC1\obj\Debug\net8.0\SimulationMVC1.RazorAssemblyInfo.cs
+C:\Users\II Novbe\Documents\My Web Sites\SimulationMVC1\SimulationMVC1\obj\Debug\net8.0\SimulationMVC1.sourcelink.json
