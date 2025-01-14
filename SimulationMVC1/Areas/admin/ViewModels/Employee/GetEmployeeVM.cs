@@ -1,6 +1,6 @@
 ﻿using SimulationMVC1.Models;
 
-namespace SimulationMVC1.Areas.admin.ViewModels.Employee
+namespace SimulationMVC1.Areas.admin.ViewModels
 {
     public class GetEmployeeVM
     {

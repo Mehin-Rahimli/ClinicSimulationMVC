@@ -8,10 +8,8 @@
 
   <ItemGroup>
     <Folder Include="Areas\admin\Data\" />
-    <Folder Include="Areas\admin\Views\Employee\" />
     <Folder Include="Migrations\" />
     <Folder Include="Views\Account\" />
-    <Folder Include="wwwroot\admin\" />
   </ItemGroup>
 
   <ItemGroup>

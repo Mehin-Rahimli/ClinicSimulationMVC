@@ -1,5 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using SimulationMVC1.DAL;
+using SimulationMVC1.Models;
+using SimulationMVC1.ViewModels;
 
 namespace SimulationMVC1.Controllers
 {
@@ -11,9 +14,13 @@ namespace SimulationMVC1.Controllers
         {
             _context = context;
         }
-        public IActionResult Index()
+        public async Task<IActionResult>Index()
         {
-            return View();
+            HomeVM homeVM = new HomeVM
+            {
+                Employees=await _context.Employees.OrderByDescending(e=>e.Name).Take(5).ToListAsync()
+            };
+            return View(homeVM);
         }
     }
 }
