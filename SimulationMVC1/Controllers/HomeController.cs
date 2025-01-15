@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SimulationMVC1.DAL;
-using SimulationMVC1.Models;
 using SimulationMVC1.ViewModels;
 
 namespace SimulationMVC1.Controllers
